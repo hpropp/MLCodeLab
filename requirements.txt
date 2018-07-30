@@ -6,3 +6,7 @@ ipython
 ipykernel
 jupyter
 tqdm
+pandas
+nltk
+xmltodict
+requests
